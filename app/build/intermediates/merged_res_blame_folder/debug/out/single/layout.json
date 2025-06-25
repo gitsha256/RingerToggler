@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.ringertoggler.app-mergeDebugResources-30:/layout/widget_layout.xml",
+        "source": "com.example.ringertoggler.app-main-33:/layout/widget_layout.xml"
+    },
+    {
+        "merged": "com.example.ringertoggler.app-mergeDebugResources-30:/layout/activity_main.xml",
+        "source": "com.example.ringertoggler.app-main-33:/layout/activity_main.xml"
+    }
+]
